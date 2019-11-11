@@ -1,5 +1,5 @@
 <?php
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'svr2.educationhost.cloud/phpMyAdmin');
 define('DB_USER', 'khvlhgud_insta');
 define('DB_PASS', 'xenex123Ab@');
 define('DB_NAME', 'khvlhgud_insta');

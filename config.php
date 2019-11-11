@@ -1,7 +1,7 @@
 <?php
-define('DB_HOST', 'sql210.ezyro.com');
-define('DB_USER', 'ezyro_24467847');
-define('DB_PASS', 'cqywgf');
-define('DB_NAME', 'ezyro_24467847_fastback');
+define('DB_HOST', 'svr2.educationhost.cloud/phpMyAdmin');
+define('DB_USER', 'khvlhgud_insta');
+define('DB_PASS', 'xenex123Ab@');
+define('DB_NAME', 'khvlhgud_insta');
 define('TIMEZONE', 'Pacific/Niue');
 define('ENCRYPTION_KEY', '8de0682e4b3633865bc7ccbcdc29defb');
