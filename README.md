@@ -16,7 +16,7 @@ This project requires first that [PHP be installed](https://xenx.tk/docs/install
 [For addition services in future. If its your first time run `Hosting panel` to install there and config mysql locally. After cloning the project - run `you-web-pro`. & to install database  - run `--open-sql--&--setup--dtabase--there---and---take--all--sql--user,pass,host (details)--&
 Fill it to [$base/app/config.php] install` to install check - run `your-web-server-website` to start live development 
 
-#Installation
+# Installation
 
 Step-by-step guides to set up Fastback on your web application. Please read the following guide carefully.
 
