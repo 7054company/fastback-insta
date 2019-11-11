@@ -30,8 +30,7 @@ Step 2: Go to web hosting sql [php-my-admin]setup page
 
 Step 3: Fill out all the requested informations.
 
-              After redirecting to sql installation page, you have to 
-[Create Database] & import the Fastback.sql files  the in which informations (Site interface, purchase code, admin account details...etc)
+              After redirecting to sql installation page, you have to [Create Database] & import the Fastback.sql files  the in which informations (Site interface, purchase code, admin account details...etc)
 
 Step 4: Finish Installation
 
