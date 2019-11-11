@@ -34,7 +34,9 @@ Step 3: Fill out all the requested informations.
 
 Step 4: Finish Installation
 
-             press close Button after filling all the requested informations on the step 3.Then Go to your website/server website
+             press close Button after filling all the requested informations on the step 3
+
+Then Go to your website/server website
 You will see successfully message after few seconds, if everything is exactly.
 
 Step 5: Login As Admin
