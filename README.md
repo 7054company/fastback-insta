@@ -22,26 +22,26 @@ Step-by-step guides to set up Fastback on your web application. Please read the 
 
 Step 1: Upload and Extract a Zip Archive
 
-Upload the installed zip archive to your web hosting. And then extract all files
+              Upload the installed zip archive to your web hosting. And then extract all files
 
 Step 2: Go to web hosting sql [php-my-admin]setup page
 
-Open your browser and go to sql installation page. (In this case, this is www.server.com:2087/sql/setup)
+             Open your browser and go to sql installation page. (In this case, this is www.server.com:2087/sql/setup)
 
 Step 3: Fill out all the requested informations.
 
-After redirecting to sql installation page, you have to 
+              After redirecting to sql installation page, you have to 
 [Create Database] & import the Fastback.sql files  the in which informations (Site interface, purchase code, admin account details...etc)
 
 Step 4: Finish Installation
 
-press close Button after filling all the requested informations on the step 3. Then,
+             press close Button after filling all the requested informations on the step 3. Then,
 Go to your website/server website
 You will see successfully message after few seconds, if everything is exactly.
 
 Step 5: Login As Admin
 
-Click on upper right corner [3'dash symbol] or [Menu]
+             Click on upper right corner [3'dash symbol] or [Menu]
 & Login with  Admin Email/pass
   
      Admin Login's 
